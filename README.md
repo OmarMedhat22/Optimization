@@ -12,8 +12,8 @@ In this project I worked on this Objective function:
 Here is the itertions values:
 
 ![](itertions.JPG)
-N
-![](itertions 2.JPG)
+
+![](itertions2.JPG)
 
 
 ### Dependencies
