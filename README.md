@@ -10,8 +10,9 @@ In this project I worked on this Objective function:
 ![](Equations.JPG)
 
 Here is the itertions values:
-![](itertions.JPG)
 
+![](itertions.JPG)
+N
 ![](itertions 2.JPG)
 
 
