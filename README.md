@@ -10,9 +10,9 @@ In this project I worked on this Objective function:
 ![](Equations.JPG)
 
 Here is the itertions values:
-![](itertions.jpg)
+![](itertions.JPG)
 
-![](itertions 2.jpg)
+![](itertions 2.JPG)
 
 
 ### Dependencies
