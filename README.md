@@ -7,11 +7,11 @@ This Project Minimize Non-Linear Functions with Two constraints  using Gekko Lib
 
 In this project I worked on this Objective function:
 
-![](Equations.png)
+![](Equations.jpg)
 
 Here is the itertions values:
-![](itertions.png)
-![](itertions 2.png)
+![](itertions.jpg)
+![](itertions 2.jpg)
 
 
 ### Dependencies
